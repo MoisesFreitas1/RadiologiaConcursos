@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Radiologia Concursos</string>
+    <string name="title_activity_radiologia">radiologiaActivity</string>
+    <string name="title_activity_radiologia10">radiologia10Activity</string>
+    <string name="title_activity_radiologia30">radiologia30Activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
